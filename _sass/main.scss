@@ -1,0 +1,17 @@
+@import "font.scss";
+@import "normalize.scss";
+
+.w-md {
+  max-width: 960px;
+}
+
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.center {
+  text-align: center;
+}
+
+.pointer { cursor: pointer }
