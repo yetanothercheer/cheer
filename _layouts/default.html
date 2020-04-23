@@ -7,14 +7,17 @@
 </head>
 
 <body>
-  <main class="geomanist mx-auto w-md">
-    <h1>
-      <a href="/">
-        {{site.title}}
-      </a>
-    </h1>
-    {{ content }}
-  </main>
+  <div class="geomanist">
+
+    <main class="mx-auto w-md">
+      <h1><a href="/">{{site.title | default: "Jekyll Theme Cheer"}}</a></h1>
+      {{ content }}
+    </main>
+
+  </div>
+
 </body>
+
+
 
 </html>
