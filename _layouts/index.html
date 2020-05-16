@@ -5,9 +5,14 @@ layout: default
 {%- for post in site.posts -%}
 <div class="pointer">
   <a href="{{post.url}}">
-    <p>
-      {{post.title}}
-    </p>
+    <div class="flex">
+      <p class="flex-1">
+        {{post.title}}
+      </p>
+      <div>
+        {{post.date | date: "%-d %B, %Y" }}
+      </div>
+    </div>
   </a>
 </div>
 {%- endfor -%}

@@ -4,11 +4,16 @@ a {
 }
 
 p {
-  font-size: 22px;
+  font-size: 27px;
 }
 
 html {
   line-height: 1.6;
+}
+
+.dark {
+  background: #333;
+  color: #eaeaea;
 }
 
 ::-webkit-scrollbar { display: none; }
