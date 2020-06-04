@@ -4,8 +4,8 @@ title: Imagine
 author: John Lennon
 ---
 
-<p style="white-space: pre;" class="">
-Imagine there's no heaven
+<p style="white-space: pre;" class=""
+>Imagine there's no heaven
 It's easy if you try
 No hell below us
 Above us, only sky

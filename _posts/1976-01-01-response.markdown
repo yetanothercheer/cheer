@@ -3,8 +3,8 @@ layout: article
 title: 回答
 author: 北岛
 ---
-<p style="white-space: pre;" class="center">
-卑鄙是卑鄙者的通行证，
+<p style="white-space: pre;" class="center"
+>卑鄙是卑鄙者的通行证，
 高尚是高尚者的墓志铭，
 看吧，在那镀金的天空中，
 飘满了死者弯曲的倒影。
